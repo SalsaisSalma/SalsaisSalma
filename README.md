@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SalsaisSalma
-- 👀 I’m interested in machine learning and game developing
-- 🌱 I’m currently learning game developing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and cybersecurity
 - 📫 How to reach me sulissimone56478r@gmail.com
 
 
